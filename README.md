@@ -5,7 +5,7 @@
 ## Esta curva del olvido descubierta por el psicólogo alemán Hermann Ebbinghaus
 
 
-#### Ilustra la pérdida de retentiva con el tiempo, indica cuánto se mantiene un contenido en el cerebro.
+#### Indica cuánto se mantiene un contenido en el cerebro.
 
 ![curva](./curve.png)
 
@@ -13,7 +13,8 @@
 
 ## La práctica espaciada
 
-#### Para no olvidar lo que estamos aprendiendo debemos practicarlo en distintos intervalos de tiempo ¿Qué intervalos?
+#### Para no olvidar lo que estamos aprendiendo debemos practicarlo en distintos intervalos de tiempo 
+#### ¿Qué intervalos?
 
 ![img](./img.png)
 
